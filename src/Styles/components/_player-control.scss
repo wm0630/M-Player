@@ -1,0 +1,13 @@
+.player__control {
+    display: flex;
+    gap: 2.5rem;
+    align-items: center;
+    max-width: 50rem;
+    align-self: center;
+}
+
+@media only screen and (min-width: 900px) {
+    .player__control {
+        gap: 5rem;
+    }
+}
