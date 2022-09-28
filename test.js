@@ -15,9 +15,3 @@ for (j = 0; j < 20; j++) {
     currentSongIndex--;
     console.log(totalSongs + (currentSongIndex % totalSongs) - 1);
 }
-
-/*
-
-15 = 15 - 0 + 1
-
-*/
