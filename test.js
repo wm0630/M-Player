@@ -1,7 +1,7 @@
 // console.log("Hello World");
 let j = 0;
 let currentSongIndex = 0;
-let totalSongs = 16
+let totalSongs = 16;
 
 currentSongIndex = 0;
 // Prev
